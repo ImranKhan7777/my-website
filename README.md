@@ -3,5 +3,4 @@
 
 Addding text for example branch
 
-
-New addition in GitHub for update-readme branch
+updates on master branch  on GitHub before rebase
